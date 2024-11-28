@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/B19_BT1_Validate_Class/B19_BT1_Validate_Class.iml" filepath="$PROJECT_DIR$/B19_BT1_Validate_Class/B19_BT1_Validate_Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/B19_TH_CrawlListMusic/B19_TH_CrawlListMusic.iml" filepath="$PROJECT_DIR$/B19_TH_CrawlListMusic/B19_TH_CrawlListMusic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bai19_TH1/Bai19_TH1.iml" filepath="$PROJECT_DIR$/Bai19_TH1/Bai19_TH1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bai19_TH2/Bai19_TH2.iml" filepath="$PROJECT_DIR$/Bai19_TH2/Bai19_TH2.iml" />
