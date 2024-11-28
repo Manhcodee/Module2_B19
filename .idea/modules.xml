@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/B19_BT1_Validate_Class/B19_BT1_Validate_Class.iml" filepath="$PROJECT_DIR$/B19_BT1_Validate_Class/B19_BT1_Validate_Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/B19_TH_CrawlListMusic/B19_TH_CrawlListMusic.iml" filepath="$PROJECT_DIR$/B19_TH_CrawlListMusic/B19_TH_CrawlListMusic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B19_Validate_Phone/B19_Validate_Phone.iml" filepath="$PROJECT_DIR$/B19_Validate_Phone/B19_Validate_Phone.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bai19_TH1/Bai19_TH1.iml" filepath="$PROJECT_DIR$/Bai19_TH1/Bai19_TH1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bai19_TH2/Bai19_TH2.iml" filepath="$PROJECT_DIR$/Bai19_TH2/Bai19_TH2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Bài 19.iml" filepath="$PROJECT_DIR$/.idea/Bài 19.iml" />
